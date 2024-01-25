@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos Coorporate\\Upload_NFe_Cone\\Upload_NFe_Cone\\Consulta_NFe_Insert\\Upload_NFe_Cone.csproj": {}
+    "C:\\Projetos Coorporate\\Integra Synchro\\Upload_NFe_Cone\\Consulta_NFe_Insert\\Upload_NFe_Cone.csproj": {}
   },
   "projects": {
-    "C:\\Projetos Coorporate\\Upload_NFe_Cone\\Upload_NFe_Cone\\Consulta_NFe_Insert\\Upload_NFe_Cone.csproj": {
+    "C:\\Projetos Coorporate\\Integra Synchro\\Upload_NFe_Cone\\Consulta_NFe_Insert\\Upload_NFe_Cone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos Coorporate\\Upload_NFe_Cone\\Upload_NFe_Cone\\Consulta_NFe_Insert\\Upload_NFe_Cone.csproj",
+        "projectUniqueName": "C:\\Projetos Coorporate\\Integra Synchro\\Upload_NFe_Cone\\Consulta_NFe_Insert\\Upload_NFe_Cone.csproj",
         "projectName": "Upload_NFe_Cone",
-        "projectPath": "C:\\Projetos Coorporate\\Upload_NFe_Cone\\Upload_NFe_Cone\\Consulta_NFe_Insert\\Upload_NFe_Cone.csproj",
+        "projectPath": "C:\\Projetos Coorporate\\Integra Synchro\\Upload_NFe_Cone\\Consulta_NFe_Insert\\Upload_NFe_Cone.csproj",
         "packagesPath": "C:\\Users\\salnet\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos Coorporate\\Upload_NFe_Cone\\Upload_NFe_Cone\\Consulta_NFe_Insert\\obj\\",
+        "outputPath": "C:\\Projetos Coorporate\\Integra Synchro\\Upload_NFe_Cone\\Consulta_NFe_Insert\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -71,6 +71,10 @@
             "System.Net.Http": {
               "target": "Package",
               "version": "[4.3.4, )"
+            },
+            "System.ServiceProcess.ServiceController": {
+              "target": "Package",
+              "version": "[7.0.1, )"
             },
             "System.Text.Encodings.Web": {
               "target": "Package",

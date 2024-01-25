@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rLxJqGfJYoArMpJf3WHnAWJR38Gl6islaO5Rmh3bc4iM461B60x5LqlZeAkvqazKokTa4KmB+0YABbG2u4IQ+A==",
+  "dgSpecHash": "d/HuEN5suAX4hg9n1mpbUatOM8/THMYULCkD0F/EFiTrMyjvJVQXYE5AnVlUEK9zd87mfqpsZfGfmOUHELXIeA==",
   "success": true,
-  "projectFilePath": "C:\\Projetos Coorporate\\Upload_NFe_Cone\\Upload_NFe_Cone\\Consulta_NFe_Insert\\Upload_NFe_Cone.csproj",
+  "projectFilePath": "C:\\Projetos Coorporate\\Integra Synchro\\Upload_NFe_Cone\\Consulta_NFe_Insert\\Upload_NFe_Cone.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\salnet\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\salnet\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
@@ -38,6 +38,7 @@
     "C:\\Users\\salnet\\.nuget\\packages\\system.data.sqlclient\\4.8.5\\system.data.sqlclient.4.8.5.nupkg.sha512",
     "C:\\Users\\salnet\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\salnet\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.3.0\\system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
+    "C:\\Users\\salnet\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
     "C:\\Users\\salnet\\.nuget\\packages\\system.diagnostics.performancecounter\\6.0.1\\system.diagnostics.performancecounter.6.0.1.nupkg.sha512",
     "C:\\Users\\salnet\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
     "C:\\Users\\salnet\\.nuget\\packages\\system.directoryservices\\6.0.1\\system.directoryservices.6.0.1.nupkg.sha512",
@@ -72,6 +73,7 @@
     "C:\\Users\\salnet\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\system.security.cryptography.x509certificates.4.3.0.nupkg.sha512",
     "C:\\Users\\salnet\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
     "C:\\Users\\salnet\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\salnet\\.nuget\\packages\\system.serviceprocess.servicecontroller\\7.0.1\\system.serviceprocess.servicecontroller.7.0.1.nupkg.sha512",
     "C:\\Users\\salnet\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\salnet\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\salnet\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
